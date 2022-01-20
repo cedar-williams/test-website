@@ -1,2 +1,2 @@
-# test-website
-A basic test website hosted with GitHub
+### Reason
+This is just a test of Github Pages
