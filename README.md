@@ -1,2 +1,3 @@
-### Reason
-This is just a test of Github Pages
+# What is
+This is a test site hosted with Github Pages
+[The site](test1.cedars.photos)
